@@ -24,6 +24,7 @@ i{
 }
 i{
     font-size: 20px;
+    
   
 }
 body{
@@ -41,7 +42,7 @@ section{
     color:white;
     margin:auto;
     margin-top:40px;
-     margin-bottom:50px;
+     margin-bottom:40px;
     width: 400px;
     padding:25px;
     background:#6b6a8f;
@@ -68,8 +69,8 @@ h2{
 .p{
     padding:15px ;
     border:none;
-    border-radius:30px;
-    border-right: 30px;
+    border-radius: 30px;
+    margin-bottom: 30px;
     margin-left: 60px;
     margin-right: 60px;
     background:#59d8ff;
@@ -86,6 +87,6 @@ h2{
 footer{
   background-color: #59d8ff;
   color: white;
-  padding: 40px;
+  padding: 30px;
   text-align: center;
 }
