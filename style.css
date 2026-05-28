@@ -1,7 +1,14 @@
 header{
     background-color: #59d8ff;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    margin: 0px;
     color:white;
-    padding:30px;
+    padding-top: 0%;
+    
+    padding:30px 20px;
     text-align: center;
      box-shadow:0 0 20px #6fe7ff;
 
@@ -19,16 +26,15 @@ p{
     
 }
 
-i{
-    font-size:200px;
-}
+
 i{
     font-size: 20px;
     
   
 }
 body{
-    background:#4f4b74
+    background:#4f4b74;
+    
 }
 img{
   width:180px;
@@ -41,12 +47,12 @@ section{
     
     color:white;
     margin:auto;
-    margin-top:40px;
-     margin-bottom:40px;
-    width: 400px;
+    margin-top:50px;
+    margin-bottom:40px;
+    width: 500px;
     padding:25px;
     background:#6b6a8f;
-    border-radius:25px;
+    border-radius:30px;
     border:2px solid white;
     text-align: center;
     box-shadow:0 0 20px #6fe7ff;
@@ -71,8 +77,8 @@ h2{
     border:none;
     border-radius: 30px;
     margin-bottom: 30px;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
     background:#59d8ff;
     color:white;
     font-size:30px;
@@ -83,6 +89,8 @@ h2{
 .p3{
   text-align: center;
   font-size: 20px;
+  line-height: 40px;
+  
 }
 footer{
   background-color: #59d8ff;
