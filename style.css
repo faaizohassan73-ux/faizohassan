@@ -1,5 +1,5 @@
 header{
-    background-color: #59d8ff;
+    background-color: #00b7eec6;
     font-family: Arial, Helvetica, sans-serif;
     top: 0px;
     right: 0px;
@@ -7,7 +7,7 @@ header{
     margin: 0px;
     color:white;
     padding-top: 0%;
-    
+    height: 100px;
     padding:30px 20px;
     text-align: center;
      box-shadow:0 0 20px #6fe7ff;
@@ -33,25 +33,26 @@ i{
   
 }
 body{
-    background:#4f4b74;
+    background:#9690cccf;
     
 }
 img{
-  width:180px;
+  width:200px; 
     border-radius:20px;
-    box-shadow:0 0 15px #6fe7ff;
+    border-bottom: 10px solid #59d8ff;
+    box-shadow:0 0 20px #6fe7ff;
 
 }
 section{
-   height: 550px;
+   height: 600px;
     
     color:white;
     margin:auto;
     margin-top:50px;
     margin-bottom:40px;
-    width: 500px;
+    width: 650px;
     padding:25px;
-    background:#6b6a8f;
+    background:#9690cccf;
     border-radius:30px;
     border:2px solid white;
     text-align: center;
@@ -93,7 +94,7 @@ h2{
   
 }
 footer{
-  background-color: #59d8ff;
+  background-color: #00b7eec6;
   color: white;
   padding: 30px;
   text-align: center;
